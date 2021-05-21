@@ -61,8 +61,6 @@ The Spurwing API is a premium service https://www.spurwing.io/ - schedule a demo
 - We provide more unique features than some of our competitors: multi-user calendars (ideal for large corporate teams), two-way syncing, built-in CRM for client management, advanced time zone management, availability blockers, group meetings, advanced availability and booking slot settings.
 - We are an API-first company, our mission is to support software engineering teams by being supportive, flexible and scalable on both a business and technology level.
 
-![booking api demo](https://user-images.githubusercontent.com/9488406/119061415-9c373080-b9d4-11eb-8c84-3979ec5e6d6c.png)
-
 ### Open-Source Marketplace
 
 Spurwing has invested plenty of resources in providing its clients with a free and [open-source marketplace](https://github.com/Spurwing/). Our marketplace offers tools and resources for booking, calendar, and scheduling related performance such as: Chatbots, Widgets, Management Dashboards, Collaboration and Availability tools, Integrations to Payment, ERP, CMS and CRM systems. Our engineering team is continuously improving and innovating.
@@ -89,8 +87,16 @@ Our team of dedicated managers and software engineers are available daily to hel
 - Discord Community Server: https://discord.gg/j3gd5Qk5uW
 
 #### Screenshots
+![spurwing scheduling api dashboard](https://user-images.githubusercontent.com/9488406/119096839-5f8b2980-ba14-11eb-821a-fd781258fb4a.png)
+
 ![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062050-1320f900-b9d6-11eb-96d5-1ddc652b2404.png)
 
 ![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062108-2fbd3100-b9d6-11eb-85c9-ac2ce5fe2839.png)
 
 ![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062128-43689780-b9d6-11eb-8e99-c3fef2e78540.png)
+
+![booking api demo](https://user-images.githubusercontent.com/9488406/119061415-9c373080-b9d4-11eb-8c84-3979ec5e6d6c.png)
+
+---
+
+Spurwing © All Rights Reserved | https://www.spurwing.io/
