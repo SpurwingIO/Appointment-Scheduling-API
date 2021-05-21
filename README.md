@@ -17,7 +17,7 @@ If you combine the unique complexity of multiple calendar applications with the 
 By using a single API service to manage all second-class objects (even transforming them into first-class objects) across multiple calendar platforms everything smooths out significantly. Less resources are used, event creation requests are handled much faster, and at the end of the day managing events across multiple different calendar platforms becomes almost effortless.
 
 ### Time zones
-Dealing with scheduling across multiple time zones (and daylight saving times) is one of those things that often goes overlooked by new developers working with calendar and scheduling APIs for the first time – at least until everything breaks under real-world testing, anyway! Any applications that are going to be responsible for managing events that span across multiple regions and multiple time zones need to be engineered to “normalize” time.
+Dealing with scheduling across multiple time zones (and daylight-saving times) is one of those things that often goes overlooked by new developers working with calendar and scheduling APIs for the first time – at least until everything breaks under real-world testing, anyway! Any applications that are going to be responsible for managing events that span across multiple regions and multiple time zones need to be engineered to “normalize” time.
 
 With scheduling API services, time isn’t just normalized on the user end of things – always displaying the right time for each user depending on their specific time zone while keeping things synchronized. But they also make it easy to manage, update, and instance the timing of events across multiple time zones on the backend, too.
 
@@ -56,9 +56,9 @@ If your project requires an SDK for another programming language/stack let us kn
 
 The Spurwing API is a premium service https://www.spurwing.io/ - schedule a demo or request a trial account on our website.
 
-![image](https://user-images.githubusercontent.com/9488406/119061415-9c373080-b9d4-11eb-8c84-3979ec5e6d6c.png)
+![booking api demo](https://user-images.githubusercontent.com/9488406/119061415-9c373080-b9d4-11eb-8c84-3979ec5e6d6c.png)
 
-### Open Source Marketplace
+### Open-Source Marketplace
 
 Spurwing has invested plenty of resources in providing its clients with a free and [open-source marketplace](https://github.com/Spurwing/). Our marketplace offers tools and resources for booking, calendar, and scheduling related performance such as: Chatbots, Widgets, Management Dashboards, Collaboration and Availability tools, Integrations to Payment, ERP, CMS and CRM systems. Our engineering team is continuously improving and innovating.
 
@@ -76,13 +76,13 @@ Here are a few highlighted repositories:
 
 
 #### Screenshots
-![image](https://user-images.githubusercontent.com/9488406/119062050-1320f900-b9d6-11eb-96d5-1ddc652b2404.png)
+![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062050-1320f900-b9d6-11eb-96d5-1ddc652b2404.png)
 
-![image](https://user-images.githubusercontent.com/9488406/119062108-2fbd3100-b9d6-11eb-85c9-ac2ce5fe2839.png)
+![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062108-2fbd3100-b9d6-11eb-85c9-ac2ce5fe2839.png)
 
-![image](https://user-images.githubusercontent.com/9488406/119062128-43689780-b9d6-11eb-8e99-c3fef2e78540.png)
+![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062128-43689780-b9d6-11eb-8e99-c3fef2e78540.png)
 
-![image](https://user-images.githubusercontent.com/9488406/119062172-66934700-b9d6-11eb-80e6-608831cedee2.png)
+![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062172-66934700-b9d6-11eb-80e6-608831cedee2.png)
 
 ## Support
 
