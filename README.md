@@ -74,17 +74,7 @@ Here are a few highlighted repositories:
 | Appointment scheduling integration for Facebook Messenger | [Facebook Messenger Bot](https://github.com/Spurwing/Chat-Bot-Integrations/tree/main/Facebook/NodeJS) |
 
 
-
-#### Screenshots
-![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062050-1320f900-b9d6-11eb-96d5-1ddc652b2404.png)
-
-![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062108-2fbd3100-b9d6-11eb-85c9-ac2ce5fe2839.png)
-
-![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062128-43689780-b9d6-11eb-8e99-c3fef2e78540.png)
-
-![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062172-66934700-b9d6-11eb-80e6-608831cedee2.png)
-
-## Support
+## Contact & Support
 
 Our team of dedicated managers and software engineers are available daily to help you with any case.
 
@@ -92,3 +82,10 @@ Our team of dedicated managers and software engineers are available daily to hel
 - Our blog: https://dev.to/spurwing
 - For enquiries and private issues reach out to us at ilya@spurwing.io
 - Discord Community Server: https://discord.gg/j3gd5Qk5uW
+
+#### Screenshots
+![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062050-1320f900-b9d6-11eb-96d5-1ddc652b2404.png)
+
+![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062108-2fbd3100-b9d6-11eb-85c9-ac2ce5fe2839.png)
+
+![scheduling api demo project](https://user-images.githubusercontent.com/9488406/119062128-43689780-b9d6-11eb-8e99-c3fef2e78540.png)
