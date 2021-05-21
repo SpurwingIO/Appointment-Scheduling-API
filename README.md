@@ -56,6 +56,11 @@ If your project requires an SDK for another programming language/stack let us kn
 
 The Spurwing API is a premium service https://www.spurwing.io/ - schedule a demo or request a trial account on our website.
 
+#### Notable features
+- Our API has higher degree of freedom and provides more flexibility than that of our competitors, allowing engineers to tackle complex scenarios with ease.
+- We provide more unique features than some of our competitors: multi-user calendars (ideal for large corporate teams), two-way syncing, built-in CRM for client management, advanced time zone management, availability blockers, group meetings, advanced availability and booking slot settings.
+- We are an API-first company, our mission is to support software engineering teams by being supportive, flexible and scalable on both a business and technology level.
+
 ![booking api demo](https://user-images.githubusercontent.com/9488406/119061415-9c373080-b9d4-11eb-8c84-3979ec5e6d6c.png)
 
 ### Open-Source Marketplace
