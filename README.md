@@ -40,6 +40,10 @@ At the end of the day, scheduling API services shortcut development time signifi
 ## Spurwing
 Spurwing is like Stripe but for appointment scheduling. Our API makes it easy to add robust appointment booking and calendaring features to any application. We power millions of appointment bookings for thousands of companies, from marketplaces to SaaS and healthcare. We help software teams save time, money, and resources on the development of scheduling solutions, including through our free, open-source GitHub marketplace solutions.
 
+[![scheduling api demo](https://i.ytimg.com/vi_webp/EeQdze5-6bY/maxresdefault.webp)](https://www.youtube.com/watch?v=EeQdze5-6bY)
+
+Watch our [YouTube Demo](https://www.youtube.com/watch?v=EeQdze5-6bY)
+
 ### Scheduling API
 
 The backbone of Spurwing is our advanced yet easy to use REST API. You can consult the documentation at https://docs.spurwing.io/
