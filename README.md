@@ -51,10 +51,10 @@ But before you start coding away and reinventing the wheel, we have several offi
 
 | SDKs / Libraries |
 | --- |
-| [JavaScript](https://github.com/Spurwing/Spurwing-API-Javascript-Library) |
+| [JavaScript](https://github.com/Spurwingio/Spurwing-API-Javascript-Library) |
 | [NodeJS](https://github.com/spurwingio/Spurwing-API-NodeJS-Library) |
-| [Python](https://github.com/Spurwing/Spurwing-API-Python-Library) |
-| [Java](https://github.com/Spurwing/Spurwing-API-Java-Library) |
+| [Python](https://github.com/Spurwingio/Spurwing-API-Python-Library) |
+| [Java](https://github.com/Spurwingio/Spurwing-API-Java-Library) |
 
 If your project requires an SDK for another programming language/stack let us know.
 
@@ -67,18 +67,18 @@ The Spurwing API is a premium service https://www.spurwing.io/ - schedule a demo
 
 ### Open-Source Marketplace
 
-Spurwing has invested plenty of resources in providing its clients with a free and [open-source marketplace](https://github.com/Spurwing/). Our marketplace offers tools and resources for booking, calendar, and scheduling related performance such as: Chatbots, Widgets, Management Dashboards, Collaboration and Availability tools, Integrations to Payment, ERP, CMS and CRM systems. Our engineering team is continuously improving and innovating.
+Spurwing has invested plenty of resources in providing its clients with a free and [open-source marketplace](https://github.com/Spurwingio/). Our marketplace offers tools and resources for booking, calendar, and scheduling related performance such as: Chatbots, Widgets, Management Dashboards, Collaboration and Availability tools, Integrations to Payment, ERP, CMS and CRM systems. Our engineering team is continuously improving and innovating.
 
 Here are a few highlighted repositories:
 
 | Project | Link |
 | --- | --- |
-| Simple and basic embeddable scheduling widget for 1-on-1 bookings | [Scheduling Widget](https://github.com/Spurwing/Appointment-Scheduling-Widgets/tree/main/SimpleAppointmentScheduling) |
-| Voice Control enabled scheduling widget | [Voice Control Scheduling](https://github.com/Spurwing/Appointment-Scheduling-Widgets/tree/main/SimpleAppointmentScheduling_audio) |
-| Group/team availability solution | [Team Availability](https://github.com/Spurwing/Availability-Solutions/tree/main/solution_01) |
-| Calendar Events with RSVP Emails (iCalendar protocol) | [RSVP emails](https://github.com/Spurwing/iCalendar-Integrations) |
-| Simple Discord Bot for scheduling 1-on-1 meetings | [Discord Scheduling Bot](https://github.com/Spurwing/Chat-Bot-Integrations/tree/main/Discord/NodeJS) |
-| Appointment scheduling integration for Facebook Messenger | [Facebook Messenger Bot](https://github.com/Spurwing/Chat-Bot-Integrations/tree/main/Facebook/NodeJS) |
+| Simple and basic embeddable scheduling widget for 1-on-1 bookings | [Scheduling Widget](https://github.com/Spurwingio/Appointment-Scheduling-Widgets/tree/main/SimpleAppointmentScheduling) |
+| Voice Control enabled scheduling widget | [Voice Control Scheduling](https://github.com/Spurwingio/Appointment-Scheduling-Widgets/tree/main/SimpleAppointmentScheduling_audio) |
+| Group/team availability solution | [Team Availability](https://github.com/Spurwingio/Availability-Solutions/tree/main/solution_01) |
+| Calendar Events with RSVP Emails (iCalendar protocol) | [RSVP emails](https://github.com/Spurwingio/iCalendar-Integrations) |
+| Simple Discord Bot for scheduling 1-on-1 meetings | [Discord Scheduling Bot](https://github.com/Spurwingio/Chat-Bots/tree/main/Discord/NodeJS) |
+| Appointment scheduling integration for Facebook Messenger | [Facebook Messenger Bot](https://github.com/Spurwingio/Chat-Bots/tree/main/Facebook/NodeJS) |
 
 
 ## Contact & Support
