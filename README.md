@@ -1,9 +1,18 @@
 # Appointment Scheduling API
+![appointment scheduling api saas](https://user-images.githubusercontent.com/9488406/119058271-537c7900-b9ce-11eb-9287-c1fec1f33afa.png)
+
+## Spurwing
+Spurwing is like Stripe but for appointment scheduling. Our API makes it easy to add robust appointment booking and calendaring features to any application. We power millions of appointment bookings for thousands of companies, from marketplaces to SaaS and healthcare. We help software teams save time, money, and resources on the development of scheduling solutions, including through our free, open-source GitHub marketplace solutions.
+
+[![scheduling api demo](https://i.ytimg.com/vi_webp/EeQdze5-6bY/maxresdefault.webp)](https://www.youtube.com/watch?v=EeQdze5-6bY)
+
+Watch our [YouTube Demo](https://www.youtube.com/watch?v=EeQdze5-6bY)
+
+## Scheduling Roadblocks
 At first blush, implementing scheduling functionality in your application or website looks like it would be the simplest thing in the world to pull off. Beneath the surface of that super user-friendly experience, however, is something far more complex.
 
 ![scheduling api roadblocks](https://user-images.githubusercontent.com/9488406/119058248-465f8a00-b9ce-11eb-9ded-e03f88f62fb7.png)
 
-## Scheduling Roadblocks
 Scheduling can be so complex, in fact, that a lot of developers learn (relatively early on in the development process) that it makes a lot more sense to use scheduling API services to overcome common obstacles than trying to build something from scratch – reinventing the wheel along the way.
 
 ### Integrations
@@ -35,14 +44,7 @@ At the end of the day, scheduling API services shortcut development time signifi
 
 --- 
 
-![appointment scheduling api saas](https://user-images.githubusercontent.com/9488406/119058271-537c7900-b9ce-11eb-9287-c1fec1f33afa.png)
 
-## Spurwing
-Spurwing is like Stripe but for appointment scheduling. Our API makes it easy to add robust appointment booking and calendaring features to any application. We power millions of appointment bookings for thousands of companies, from marketplaces to SaaS and healthcare. We help software teams save time, money, and resources on the development of scheduling solutions, including through our free, open-source GitHub marketplace solutions.
-
-[![scheduling api demo](https://i.ytimg.com/vi_webp/EeQdze5-6bY/maxresdefault.webp)](https://www.youtube.com/watch?v=EeQdze5-6bY)
-
-Watch our [YouTube Demo](https://www.youtube.com/watch?v=EeQdze5-6bY)
 
 ### Scheduling API
 
